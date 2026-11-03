@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&width=608&lines=Hello%2C+world!+%F0%9F%8C%8D;I'm+Saad;Currently+leveling+up+my+coding+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&repeat=true&width=608&lines=Hello%2C+world!+%F0%9F%8C%8D;I'm+Saad;Currently+leveling+up+my+coding+skills)](https://git.io/typing-svg)
 
 
 ## Hi there 👋
